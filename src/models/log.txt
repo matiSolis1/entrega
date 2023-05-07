@@ -1,0 +1,8 @@
+Fecha: 6/5/2023 - Hora: 18:43:27 - Metodo: GET PRODUCTS
+Fecha: 6/5/2023 - Hora: 18:43:38 - Metodo: GET PRODUCT BY ID
+Fecha: 6/5/2023 - Hora: 18:46:02 - Metodo: GET PRODUCT BY ID
+Fecha: 6/5/2023 - Hora: 18:46:25 - Metodo: POST PRODUCTS
+Fecha: 6/5/2023 - Hora: 18:47:42 - Metodo: POST PRODUCTS
+Fecha: 6/5/2023 - Hora: 18:52:47 - Metodo: POST PRODUCTS
+Fecha: 6/5/2023 - Hora: 18:53:18 - Metodo: PUT
+Fecha: 6/5/2023 - Hora: 18:53:35 - Metodo: DELETE PRODUCT

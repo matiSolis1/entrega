@@ -1,0 +1,66 @@
+[
+	{
+		"cid": "CART1",
+		"products": [
+			{
+				"pid": "PROD11",
+				"quantity": 1
+			},
+			{
+				"pid": "PROD4",
+				"quantity": 1
+			}
+		]
+	},
+	{
+		"cid": "CART2",
+		"products": []
+	},
+	{
+		"cid": "CART3",
+		"products": []
+	},
+	{
+		"cid": "CART4",
+		"products": [
+			{
+				"pid": "PROD4",
+				"quantity": 4
+			},
+			{
+				"pid": "PROD6",
+				"quantity": 1
+			}
+		]
+	},
+	{
+		"cid": "CART5",
+		"products": [
+			{
+				"pid": "PROD6",
+				"quantity": 1
+			},
+			{
+				"pid": "PROD11",
+				"quantity": 1
+			}
+		]
+	},
+	{
+		"cid": "CART6",
+		"products": [
+			{
+				"pid": "PROD11",
+				"quantity": 1
+			},
+			{
+				"pid": "PROD10",
+				"quantity": 3
+			}
+		]
+	},
+	{
+		"cid": "CART7",
+		"products": []
+	}
+]

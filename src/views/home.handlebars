@@ -1,0 +1,15 @@
+<li>
+    {{#each products}}
+        <p>===================</p>
+        <p>{{this.pid}}</p>
+        <p>{{this.title}}</p>
+        <p>{{this.description}}</p>
+        <p>{{this.price}}</p>
+        <p>{{this.thumbnail}}</p>
+        <p>{{this.status}}</p>
+        <p>{{this.code}}</p>
+        <p>{{this.stock}}</p>
+    {{/each}}
+</li>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/home.js"></script>
